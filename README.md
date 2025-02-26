@@ -149,12 +149,12 @@ int main() {
 }
 ```
 ## Arreglos y Matrices
-### ARREGLO
+### Arreglo
 ```cpp
 int numeros[] = {1, 2, 3, 4, 5};
 cout << numeros[0]; // Accede al primer elemento
 ```
-### MATRIZ
+### Matriz
 ```cpp
 int matriz[2][3] = {{1, 2, 3}, {4, 5, 6}};
 ```
